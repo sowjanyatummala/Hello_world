@@ -6,3 +6,5 @@ int main()
 printf("hello world");
 
 }
+iam a good girl
+i can do anything
